@@ -1,0 +1,24 @@
+_repo: Education_62102
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Ellen Gould Harmon
+    alias: White, Ellen G. (Ellen Gould)
+    birthdate: 1827
+    deathdate: 1915
+    gutenberg_agent_id: '31602'
+    url: http://www.gutenberg.org/2009/agents/31602
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_G._White
+description: ''
+gutenberg_issued: '2020-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Education
+url: http://www.gutenberg.org/ebooks/62102
